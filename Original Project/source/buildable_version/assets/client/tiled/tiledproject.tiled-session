@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/starter_map.json",
+    "expandedProjectPaths": [
+        "maps",
+        "."
+    ],
+    "fileStates": {
+        "dungeon_prison.json": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 4
+        },
+        "dungeon_prison.tsj": {
+            "dynamicWrapping": false
+        },
+        "dungeon_prison_normalised.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/starter_map.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 82,
+                "y": 102
+            }
+        },
+        "maps/tiled.json": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -75.33333333333337,
+                "y": 91.33333333333331
+            }
+        }
+    },
+    "last.imagePath": "C:/dev/grapefruit/source/assets/client/Pixel Crawler - FREE - 1.8/Environment/Dungeon Prison/Assets",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "dungeon_prison.json",
+        "maps/starter_map.json"
+    ],
+    "project": "tiledproject.tiled-project",
+    "recentFiles": [
+        "dungeon_prison.json",
+        "maps/starter_map.json",
+        "maps/tiled.json",
+        "dungeon_prison_normalised.tsj"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 1
+}

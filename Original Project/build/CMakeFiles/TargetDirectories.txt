@@ -1,0 +1,4 @@
+C:/dev/grapefruit/source/build/CMakeFiles/server.dir
+C:/dev/grapefruit/source/build/CMakeFiles/client.dir
+C:/dev/grapefruit/source/build/CMakeFiles/edit_cache.dir
+C:/dev/grapefruit/source/build/CMakeFiles/rebuild_cache.dir

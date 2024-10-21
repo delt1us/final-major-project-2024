@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/server.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles/server.dir/src/server/main.cpp.obj -c C:/dev/grapefruit/source/src/server/main.cpp",
+  "file": "C:/dev/grapefruit/source/src/server/main.cpp",
+  "output": "CMakeFiles/server.dir/src/server/main.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/main.cpp.obj -c C:/dev/grapefruit/source/src/client/main.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/main.cpp",
+  "output": "CMakeFiles/client.dir/src/client/main.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/gameloop.cpp.obj -c C:/dev/grapefruit/source/src/client/gameloop.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/gameloop.cpp",
+  "output": "CMakeFiles/client.dir/src/client/gameloop.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/clientSocket.cpp.obj -c C:/dev/grapefruit/source/src/client/clientSocket.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/clientSocket.cpp",
+  "output": "CMakeFiles/client.dir/src/client/clientSocket.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/followCamera.cpp.obj -c C:/dev/grapefruit/source/src/client/followCamera.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/followCamera.cpp",
+  "output": "CMakeFiles/client.dir/src/client/followCamera.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/player.cpp.obj -c C:/dev/grapefruit/source/src/client/player.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/player.cpp",
+  "output": "CMakeFiles/client.dir/src/client/player.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/clock.cpp.obj -c C:/dev/grapefruit/source/src/client/clock.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/clock.cpp",
+  "output": "CMakeFiles/client.dir/src/client/clock.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/debug.cpp.obj -c C:/dev/grapefruit/source/src/client/debug.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/debug.cpp",
+  "output": "CMakeFiles/client.dir/src/client/debug.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/map.cpp.obj -c C:/dev/grapefruit/source/src/client/map.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/map.cpp",
+  "output": "CMakeFiles/client.dir/src/client/map.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/tileset.cpp.obj -c C:/dev/grapefruit/source/src/client/tileset.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/tileset.cpp",
+  "output": "CMakeFiles/client.dir/src/client/tileset.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/tile.cpp.obj -c C:/dev/grapefruit/source/src/client/tile.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/tile.cpp",
+  "output": "CMakeFiles/client.dir/src/client/tile.cpp.obj"
+},
+{
+  "directory": "C:/dev/grapefruit/source/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe -DASSETS_PATH=\\\"assets/client/\\\" -DDEBUG=0 @CMakeFiles/client.dir/includes_CXX.rsp -std=gnu++17 -IC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/../include -o CMakeFiles/client.dir/src/client/layer.cpp.obj -c C:/dev/grapefruit/source/src/client/layer.cpp",
+  "file": "C:/dev/grapefruit/source/src/client/layer.cpp",
+  "output": "CMakeFiles/client.dir/src/client/layer.cpp.obj"
+}
+]

@@ -1,0 +1,1 @@
+-IC:/dev/grapefruit/source/src/client -IC:/dev/grapefruit/source/src/common -isystem "C:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/include"

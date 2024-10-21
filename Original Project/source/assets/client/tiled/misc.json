@@ -1,0 +1,24 @@
+{ "columns":1,
+ "image":"..\/misc\/miscTileset.png",
+ "imageheight":16,
+ "imagewidth":16,
+ "margin":0,
+ "name":"misc",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"spawnpoint",
+                 "type":"string",
+                 "value":"true"
+                }]
+        }],
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

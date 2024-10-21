@@ -1,0 +1,8 @@
+  𝓒 json
+  ƒ Tileset::LoadTileset
+   Tileset::~Tileset
+  ƒ Tileset::LoadSpritesheet
+  ƒ Tileset::AddObjectsToTile
+  ƒ Tileset::AddPropertiesToTile
+  ƒ Tileset::LoadTiles
+  ƒ Tileset::GetSpawnpointTileIds

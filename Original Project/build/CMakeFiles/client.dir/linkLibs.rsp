@@ -1,0 +1,1 @@
+ -lws2_32 "vcpkg_installed/x64-mingw-dynamic/debug/lib/libraylib.dll.a" -LC:/dev/grapefruit/source/build/vcpkg_installed/x64-mingw-dynamic/debug/lib -lraylib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
